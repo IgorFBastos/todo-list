@@ -1,4 +1,4 @@
-# Todo List Web
+# Todo List 
 
 Este é um projeto simples de uma aplicação Todo List desenvolvida em React. A aplicação permite adicionar novas tarefas, filtrar tarefas por status (concluídas ou não concluídas), buscar tarefas por descrição e marcar tarefas como concluídas ou excluí-las.
 
