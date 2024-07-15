@@ -23,7 +23,7 @@ O projeto é composto pelos seguintes componentes principais:
 
 Para executar o projeto localmente:
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/todo-list-web.git`
+1. Clone este repositório: `git clone https://github.com/IgorFBastos/todo-list.git`
 2. Instale as dependências: `npm install`
 3. Inicie o servidor de desenvolvimento: `npm run dev`
 
